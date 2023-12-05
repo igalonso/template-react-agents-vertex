@@ -9,6 +9,7 @@ The demo template is based in the awesome work by [Eden Marco](https://github.co
 We use the awesome tool Langchain in this demo. If you don't know about it, you can find a nice video [here](https://www.youtube.com/watch?v=kYRB-vJFy38)
 
 1. Generate a `.env` file based on the `.env_template` file.
+    
     Some (or most) of the tools require registration. Here you can find information about the tools:
     - Find more information about Serpapi [here](https://serpapi.com/)
 2. Install dependencies in the `requirements.txt`file using the following command:
